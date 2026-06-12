@@ -5,5 +5,4 @@ scikit-learn==1.3.0
 matplotlib==3.7.2
 seaborn==0.12.2
 jupyter==1.0.0
-# CPU version of PyTorch (Keeps file size small for basic college labs)
 torch==2.0.1 --index-url https://download.pytorch.org/whl/cpu
